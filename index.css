@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgba(234, 224, 224, 0.853);
+  height: 100rem;
+}
+input {
+  background-color: green;
+  width: 6rem;
+  height: 2rem;
+  border: 0;
+  margin-top: 5rem;
+}
+
+.input-1 {
+  display: flex;
+}
+h1 {
+  margin-left: 2rem;
+  padding-bottom: 30px;
+  text-align: center;
+  font-family: Arial;
+  margin-top: 5rem;
+}
+.container {
+  margin-left: 8rem;
+  margin-right: 8rem;
+  
+}
+.header {
+  background-color: white;
+  width: 75rem;
+  margin-left: 10rem;
+  margin-top: 5rem;
+  height: 86.3rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.CIF {
+  background-color: green;
+  color: white;
+}
+
+.Emp {
+  background-color: green;
+  color: white;
+}
+
+.addition {
+  background-color: green;
+  color: white;
+}
+
+.heighten {
+  height: 30px;
+}
+
+.Signature {
+  color: black;
+  text-align: center;
+  font-weight: bold;
+}
+
+.YES,
+.NO {
+  text-align: center;
+}
+
+.th1 {
+  background-color: rgb(249, 247, 247);
+}
+
+.lastinput {
+  background-color: green;
+  width: 10rem;
+  height: 2rem;
+  border: 0;
+  margin-top: 5rem;
+}
+.last-div {
+  margin-left: 57rem;
+  margin-bottom: 5rem;
+}
+
+.icon-div {
+  width: 5rem;
+  height: 5rem;
+}
+
+.icon-div1 {
+  width: 5rem;
+  height: 5rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
